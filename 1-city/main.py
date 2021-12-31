@@ -1,3 +1,4 @@
+# Video: https://youtu.be/kCggyi_7pHg
 # simple API with fastAPI & pydantic only
 
 from fastapi import FastAPI 
