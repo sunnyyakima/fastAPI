@@ -14,3 +14,5 @@ https://github.com/Princekrampah/learningFastAPI
 
 https://github.com/hackingthemarkets/stockscreener
 
+https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI
+
