@@ -1,5 +1,6 @@
 # todo-list api
 # https://github.com/IsaiahT-Tech/fastapi-series/tree/master/tutorial07
+# https://github.com/IsaiahT-Tech/fastapi-series
 
 from fastapi import FastAPI, HTTPException
 from models import Todo, TodoIn_Pydantic, Todo_Pydantic
